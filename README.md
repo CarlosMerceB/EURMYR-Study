@@ -3,6 +3,10 @@ EURMYR exchange rate study. Compared all the data from 2018 to December 2024 of 
 
 #TL;DR: Exchange rate EUR/MYR is mainly moved because of EURO interest rates and not MYR ones as this has focus on USD movements 
 
+#NOTE: EUR/MYR it is shown rescaled on the graphics, you need to take into account right axis to now the real value. In the interactive graph (shinyApp) there's no right
+#y axis so you have to click on the graph and see the summary below to know the value
+
+#Summary
 #From 2018 to 2020 EUR was losing value against the MYR. During the pandemic, EURO rose around 13% mainly because, even with huge covid rstrictions and 
 #interest rates from ECB close to 0, Malaysia was way more affected by COVID-19. 
 #To sum up, it wen from 4.49 ringgit per EURO in February 2020 to 5.08 on May 2021
