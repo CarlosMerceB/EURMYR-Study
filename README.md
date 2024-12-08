@@ -1,4 +1,7 @@
-# EURMYR-Study
+# EURMYR-Study 
+
+#My first time programming in R. Used mainy ggplot. Exchange rate study could be way more deep but used only info available from the graphs!
+
 EURMYR exchange rate study. Compared all the data from 2018 to December 2024 of EUR/MYR par and USD, MYR and EURO interest rates (effective)
 
 #TL;DR: Exchange rate EUR/MYR is mainly moved because of EURO interest rates and not MYR ones as this has focus on USD movements 
